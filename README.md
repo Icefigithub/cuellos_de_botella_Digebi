@@ -1,0 +1,2 @@
+# cuellos_de_botella_Digebi
+En este repositorio se encuentran las bases de datos de ejecución presupuestaria de la Dirección General de Educación Bilingüe Intercultural (Digebi) del Ministerio de Educación de Guatemala.   También encontrará el script de R para ejecutar los algoritmos de arboles de decisión y random forests para determinar las variables más importantes para predecir una alta o baja ejecución presupuestaria en la citada dirección.
